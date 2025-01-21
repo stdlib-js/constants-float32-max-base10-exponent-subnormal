@@ -159,6 +159,13 @@ Macro for the maximum base 10 exponent for a subnormal [single-precision floatin
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float32/max-base10-exponent`][@stdlib/constants/float32/max-base10-exponent]</span><span class="delimiter">: </span><span class="description">the maximum base 10 exponent for a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-base10-exponent-subnormal`][@stdlib/constants/float64/max-base10-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the maximum base 10 exponent for a subnormal double-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -238,6 +245,10 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
 <!-- <related-links> -->
+
+[@stdlib/constants/float32/max-base10-exponent]: https://github.com/stdlib-js/constants-float32-max-base10-exponent
+
+[@stdlib/constants/float64/max-base10-exponent-subnormal]: https://github.com/stdlib-js/constants-float64-max-base10-exponent-subnormal
 
 <!-- </related-links> -->
 

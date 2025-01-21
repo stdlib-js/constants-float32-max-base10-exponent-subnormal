@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-01-21)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`902977d`](https://github.com/stdlib-js/stdlib/commit/902977d7e637a7dfb1704fc4caa8fc3913d3246d) - **docs:** update related packages sections [(#4825)](https://github.com/stdlib-js/stdlib/pull/4825) _(by stdlib-bot)_
 -   [`19343f5`](https://github.com/stdlib-js/stdlib/commit/19343f5f7a3359b989d091ed31d9e3c64cf89c9c) - **chore:** fix copyright years and disable lint rules _(by Philipp Burckhardt)_
 -   [`3e373df`](https://github.com/stdlib-js/stdlib/commit/3e373df5f80a866121754b0475478ff7e135f8ed) - **feat:** add `constants/float32/max-base10-exponent-subnormal` [(#3099)](https://github.com/stdlib-js/stdlib/pull/3099) _(by Aayush Khanna, Philipp Burckhardt)_
 
